@@ -15,13 +15,13 @@ post_date: 2020-08-18 09:52:26
 <!-- /wp:media-text -->
 
 <!-- wp:shortcode -->
-<a href="https://github.com/ingaiva/javaMethodes.git">Java Methodes</a>
+<a href="https://github.com/ingaiva/javaMethodes.git">Méthodes en java</a>
 <!-- /wp:shortcode -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":64,"width":49,"height":92,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="http://127.0.0.1/wordpress/wp-content/uploads/2020/08/java-5.png" alt="" class="wp-image-64" width="49" height="92"/><figcaption><a href="https://github.com/ingaiva/javaMethodes.git">Java Methodes</a></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="http://127.0.0.1/wordpress/wp-content/uploads/2020/08/java-5.png" alt="" class="wp-image-64" width="49" height="92"/><figcaption><a href="http://<a href=&quot;https://github.com/ingaiva/javaMethodes.git&quot;&gt;Méthodes en java</a&gt;">Méthodes en javaJava Methodes</a></figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
