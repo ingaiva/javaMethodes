@@ -27,5 +27,5 @@ post_date: 2020-08-18 09:52:26
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-<a href="https://github.com/ingaiva/javaMethodes.git">Here is my post on GitHub</a>
+<a href="https://github.com/ingaiva/javaMethodes.git">Java Methodes</a>
 <!-- /wp:shortcode -->
