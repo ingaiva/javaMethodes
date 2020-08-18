@@ -10,9 +10,7 @@ post_date: 2020-08-18 09:52:26
 ---
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:shortcode -->
-[wpghs target='view' type='link' text='Methodes en Java']
-<!-- /wp:shortcode --></div>
+<div class="wp-block-column"></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
@@ -27,3 +25,7 @@ post_date: 2020-08-18 09:52:26
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+<a href="https://github.com/ingaiva/javaMethodes.git">Here is my post on GitHub</a>
+<!-- /wp:shortcode -->
