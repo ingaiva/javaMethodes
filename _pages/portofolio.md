@@ -11,7 +11,7 @@ post_date: 2020-08-18 09:52:26
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:shortcode -->
-[wpghs]
+[wpghs target='view' type='link' text='Methodes en Java']
 <!-- /wp:shortcode --></div>
 <!-- /wp:column -->
 
